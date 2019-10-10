@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-var prefix=`!`
+var prefix=`-`
 const moment = require('moment');
 const fs = require('fs');
 var version = '11.0.0';
